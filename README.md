@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=3390FF&height=300&section=header&text=Xin%20chào,%20tôi%20là%20Lực!%20👋&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Chào%20mừng%20đến%20với%20không%20gian%20sáng%20tạo%20của%20tôi.&descAlignY=51&descAlign=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,100:2563EB&text=Xin%20chào,%20mình%20là%20Lực%20👋&fontAlign=50&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <div align="center">
@@ -68,7 +68,7 @@ Tôi là sinh viên năm cuối ngành **Công nghệ Thông tin (định hướ
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
-      <img src="https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/>
+      <img src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white" alt="Google Colab" width="40" height="40"/>
     </td>
   </tr>
 </table>
