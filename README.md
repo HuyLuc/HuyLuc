@@ -68,7 +68,7 @@ Tôi là sinh viên năm cuối ngành **Công nghệ Thông tin (định hướ
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="Google Colab" width="40" height="40"/>
+      <img src="https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/>
     </td>
   </tr>
 </table>
